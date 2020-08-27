@@ -1,5 +1,6 @@
 # Apple-Fonts-San-Francisco-New-York
 Fonts for Apple Platforms: SF Pro; SF Compact; SF Mono; New York
+
 SF Pro
 This sans-serif typeface is the system font for iOS, macOS, and tvOS, and includes a rounded variant. It provides a consistent, legible, and friendly typographic voice.
 
